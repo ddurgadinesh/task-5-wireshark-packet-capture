@@ -35,5 +35,5 @@ ICMP packets were visible after I ran the ping command in Command Prompt. Both E
 - Four screenshots showing the captured packets and ping output
 - This `README.md` report
 
-## ✅ Summary
+##  Summary
 This task gave me hands-on experience with packet-level network traffic. It was interesting to see how basic internet activity results in various types of traffic, and how protocols like DNS, TCP, and ICMP are involved in everyday browsing and connectivity.
