@@ -31,7 +31,6 @@ TCP packets appeared while connecting to websites. I was able to observe the SYN
 ICMP packets were visible after I ran the ping command in Command Prompt. Both Echo Request and Echo Reply packets were captured between my device and the Google DNS server (8.8.8.8).
 
 ## Files Included
-- Wireshark capture file (`.pcap`)
 - Four screenshots showing the captured packets and ping output
 - This `README.md` report
 
