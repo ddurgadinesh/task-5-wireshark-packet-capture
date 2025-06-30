@@ -1,4 +1,4 @@
-# 📡 Task 5 – Wireshark Packet Capture & Protocol Identification
+#  Task 5 – Wireshark Packet Capture & Protocol Identification
 
 ##  Objective
 The aim of this task was to capture live network packets using Wireshark and identify at least three common protocols such as DNS, TCP, and ICMP. I used my phone's hotspot for the internet connection and observed the traffic generated while using basic tools.
